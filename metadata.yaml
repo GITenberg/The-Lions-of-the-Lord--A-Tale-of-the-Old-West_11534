@@ -1,5 +1,8 @@
 _repo: The-Lions-of-the-Lord--A-Tale-of-the-Old-West_11534
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 11534-h/coverthumb.jpg
 creator:
   author:
     agent_name: Wilson, Harry Leon
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1206
     wikipedia: http://en.wikipedia.org/wiki/Harry_Leon_Wilson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11534#The-Lions-of-the-Lord--A-Tale-of-the-Old-West
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
